@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 121832121+Navid222@users.noreply.github.com
+	name = Navid Amiri
